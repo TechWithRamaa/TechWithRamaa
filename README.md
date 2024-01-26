@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ramaa
 
-- 💚 She/Her | Developer at Oracle, India | Alumna @ PSG Tech
+- 💚 She/Her | Software Developer at Oracle, India | Alumna @ PSG Tech
 
 - ⚡ Channels a profound passion for crafting products that deeply connect with customers
 
