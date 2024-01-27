@@ -1,13 +1,17 @@
-- 👋 Hi, I’m Ramaa
+- 👩 Hi, I’m Ramadhevi RK | I go by Ramaa | She / Her
 
-- 💚 She/Her | Software Developer at Oracle, India | Alumna @ PSG Tech
+- 💚 Currently Software Developer at Oracle, India | Started my initial journey @ Tech Startups (House of Ideas)
+     | Graduated from School of Life | Alumna @ PSG Tech 
 
 - ⚡ Channels a profound passion for crafting products that deeply connect with customers
 
-- 🌼 Data Structures | Algorithms | Progamming | Design | Problem Solving 
-     | Software Engineering | Best Practices | Distributed Systems | AI & ML
+- 🌼 Data Structures | Algorithms | Progamming | Design | Problem Solving | Complex Challenges
+     | Software Engineering | Clean Code | Best Practices | Distributed Systems | AI & ML
   
-- 🌱 I’m currently learning Python | Generative AI | RAG | LangChain | DevOps | Cloud Systems
+- 🌱 Currently learning Distributed Systems | Best Practices to build Scalable & Reliable solutions | Performance Tuning
+     | Java | Python | Generative AI | LLM | RAG | LangChain | Vector Search | DevOps | Cloud Systems
+
+- 💥 Proficient in an extensive array of tools & technologies backed by Cloud Native Computing Foundation 
 
 - 📫 Contact me at rkramadhevi@gmail.com
 
