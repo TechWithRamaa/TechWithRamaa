@@ -1,6 +1,6 @@
 - 🐼 Hi, I’m Ramadhevi RK | I go by Ramaa | She / Her
 
-- 🌎 Currently Software Developer at Oracle, India | Started my initial journey @ Tech Startups (House of Ideas)
+- 💗 Currently Software Developer at Oracle, India | Started my initial journey @ Tech Startups (House of Ideas)
      | Graduated from School of Life | Alumna @ PSG Tech 
 
 - ⚡ Channels a profound passion for crafting products that deeply connect with customers
@@ -12,6 +12,8 @@
      | Java | Python | Generative AI | LLM | RAG | LangChain | Vector Search | DevOps | Cloud Systems
 
 - 💥 Proficient in an extensive array of tools & technologies backed by Cloud Native Computing Foundation 
+
+- 💚 Excited to be a part of the Open Source & Programming community, eager to learn, evolve, and contribute back
 
 - 📫 Contact me at rkramadhevi@gmail.com
 
