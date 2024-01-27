@@ -9,7 +9,7 @@
      | Software Engineering | Clean Code | Best Practices | Distributed Systems | AI & ML
   
 - 🌱 Currently learning Distributed Systems | Best Practices to build Scalable & Reliable solutions | Performance Tuning
-     | Java | Python | Generative AI | LLM | RAG | LangChain | Vector Search | DevOps | Cloud Systems
+     | Java | Python | Generative AI | LLM | RAG | LangChain | Vector Similarity Search | DevOps | Cloud Systems
 
 - 💥 Proficient in an extensive array of tools & technologies backed by Cloud Native Computing Foundation 
 
