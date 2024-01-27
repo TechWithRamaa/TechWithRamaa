@@ -6,7 +6,7 @@
 - ⚡ Channels a profound passion for crafting products that deeply connect with customers
 
 - 🌼 Data Structures | Algorithms | Progamming | Design | Problem Solving | Complex Challenges
-     | Software Engineering | Clean Code | Best Practices | Distributed Systems | AI & ML
+     | Design Patterns | Software Engineering | Clean Code | Best Practices | Distributed Systems | AI & ML
   
 - 🌱 Currently learning Distributed Systems | Best Practices to build Scalable & Reliable solutions | Performance Tuning
      | Java | Python | Traditional ML | Generative AI | LLM | RAG | LangChain | Vector Similarity Search | DevOps | Cloud Systems
