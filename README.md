@@ -1,6 +1,6 @@
-- 👩 Hi, I’m Ramadhevi RK | I go by Ramaa | She / Her
+- 🐼 Hi, I’m Ramadhevi RK | I go by Ramaa | She / Her
 
-- 💚 Currently Software Developer at Oracle, India | Started my initial journey @ Tech Startups (House of Ideas)
+- 🌎 Currently Software Developer at Oracle, India | Started my initial journey @ Tech Startups (House of Ideas)
      | Graduated from School of Life | Alumna @ PSG Tech 
 
 - ⚡ Channels a profound passion for crafting products that deeply connect with customers
