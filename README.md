@@ -4,11 +4,11 @@
 
 - ⚡ Channels a profound passion for crafting products that deeply connect with customers
 
-- 🌼 Data Structures | Algorithms | Problem Solving | Complex Challenges | Progamming | Design Patterns
-     | System Design | Software Engineering | Distributed Systems | AI & ML
+- 🌼 Data Structures | Algorithms | Problem Solving | Complex Challenges |
+     Progamming | Design Patterns| System Design | Software Engineering | Distributed Systems | AI & ML
   
-- 🌱 Currently learning Distributed Systems | Best Practices to build Scalable & Reliable solutions | Performance Tuning
-     | Java | Python | Traditional ML | Generative AI | LLM | RAG | Vector Similarity Search | DevOps | Cloud Systems
+- 🌱 Currently learning Distributed Systems | Best Practices to build Scalable & Reliable solutions | Performance Tuning |
+      Traditional ML | Generative AI | LLM | RAG | Vector Similarity Search | DevOps | Cloud Systems
 
 - 💥 Proficient in an extensive array of tools & technologies backed by Cloud Native Computing Foundation 
 
