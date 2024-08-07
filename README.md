@@ -1,10 +1,9 @@
 - 🐼 Hi, I’m Ramadhevi RK | I go by Ramaa | She / Her
 
-- 📌 Currently Software Developer at Oracle, India | Started my initial journey @ Tech Startups | Alumna @ PSG Tech 
-
-- ⚡ Channels a profound passion for crafting products that deeply connect with customers
-
+- 📌 Currently Software Developer at Oracle, India | Started my initial journey @ Tech Startups | Alumna @ PSG Tech
+  
 - 💧 Builds innovative ideas, architects and delivers eco-friendly lightweight software systems
+- ⚡ Channels a profound passion for crafting products that deeply connect with customers
 
 - 🌼 Data Structures | Algorithms | Problem Solving | Complex Challenges |
      Progamming | Design Patterns| System Design | Software Engineering | Distributed Systems | AI & ML
