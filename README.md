@@ -4,6 +4,8 @@
 
 - ⚡ Channels a profound passion for crafting products that deeply connect with customers
 
+- 🌄 Builds innovative ideas, architects and delivers eco-friendly lightweight software systems
+
 - 🌼 Data Structures | Algorithms | Problem Solving | Complex Challenges |
      Progamming | Design Patterns| System Design | Software Engineering | Distributed Systems | AI & ML
   
