@@ -2,7 +2,7 @@
 
 - 📌 Currently Software Developer at Oracle, India | Started my initial journey @ Tech Startups | Alumna @ PSG Tech
   
-- 💧 Builds innovative ideas, architects and delivers eco-friendly lightweight software systems
+- 💧 Builds innovative ideas, architects and delivers sustainable software systems
 - ⚡ Channels a profound passion for crafting products that deeply connect with customers and end-users
 - 🍋 Curiousity, adaptability to new challenges, making the world more beautiful with innovation and solutions
 
