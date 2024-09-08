@@ -13,6 +13,7 @@
 - 💚 Excited to be a part of the Open Source & Programming community, eager to learn, evolve, and contribute back
 
 - 📫 Contact me at techwithramaa@gmail.com
+- **Disclaimer: My opinions are my own and may not reflect that of my employer**
 
 <!---
 EngineeringWithRamaa/EngineeringWithRamaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
