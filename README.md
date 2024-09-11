@@ -3,7 +3,7 @@
 - 📌 Currently Software Developer at Oracle, India | Started my initial journey @ Tech Startups | Alumna @ PSG Tech 
 - ⚡ Channels a profound passion for crafting products that deeply connect with customers and end-users
 - 🌼 Data Structures | Algorithms | Problem Solving | Complex Challenges |
-     Progamming | Design Patterns| System Design | Software Engineering | Distributed Systems | AI & ML
+     Progamming | Design Patterns| System Design  | Software Engineering | Distributed Systems | AI & ML
   
 - 🌱 Currently learning Distributed Systems | Best Practices to build Scalable & Reliable solutions | Performance Tuning |
       Traditional ML | Generative AI | LLM | RAG | Vector Similarity Search | DevOps | Cloud Systems
