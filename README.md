@@ -12,7 +12,7 @@
 
 - 💚 Excited to be a part of the Open Source & Programming community, eager to learn, evolve, and contribute back
   
-- 👩‍💻 Modern C++20 | Java 17 | Python 3.13 | Multi-Threading | Memory Management | High-Performant Systems
+- ⛹️‍♀️ Driving computers with Modern C++20, Java 17, Python 3.13, and prompt engineering
   
 - 📫 Contact me at techwithramaa@gmail.com
   
