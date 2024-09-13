@@ -11,8 +11,11 @@
 - 💥 Proficient in an extensive array of tools & technologies backed by Cloud Native Computing Foundation 
 
 - 💚 Excited to be a part of the Open Source & Programming community, eager to learn, evolve, and contribute back
-
+  
+- 👩‍💻 Modern C++21 | Java 17 | Python 3.13
+  
 - 📫 Contact me at techwithramaa@gmail.com
+  
 - ⚠️ **Disclaimer: My opinions are my own and may not reflect that of my employer**
 
 <!---
