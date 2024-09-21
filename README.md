@@ -33,7 +33,7 @@
   - **AI & Machine Learning** ( Making machines a bit smarter)  
   - **Prompt Engineering** ( Crafting prompts & super-charging user interactions with systems)
 
-## 🌱 Currently Learning
+## 🐥 Currently Learning
 
 - Diving deep into Distributed Systems
 - Best Practices for Scalable & Reliable Solutions
@@ -57,7 +57,7 @@ Proficient in a diverse set of tools and technologies blessed by the Cloud Nativ
 - Thanks for stopping by my profile! Let’s build something amazing together!
 - Drop me a line at [techwithramaa@gmail.com](mailto:techwithramaa@gmail.com). 
 
-⚠️ **Disclaimer:**  
+🥁 **Disclaimer:**  
 - The thoughts expressed here are all mine — my employer may or may not approve of my quirky sense of humor!
 
 ---
