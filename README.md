@@ -1,7 +1,7 @@
 # 🐼 Hello, World! 
 
 - I'm Ramadhevi RK (**Ramaa**) | She/Her
-- Dynamic Software Developer with a knack for transforming complex challenges into scalable, user-centric solutions, all while championing sustainability and innovation in the tech landscape
+- Practicing as a Software Engineer, supercharging existing systems with AI to create products that meet tomorrow's challenges
 
 ## 💧 About Me
 
