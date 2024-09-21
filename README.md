@@ -10,7 +10,7 @@ Welcome to my GitHub playground! I’m a Software Developer with a penchant for 
 
 ## ⚡ My Passion
 
-I love weaving together code and creativity to build products that not only work but resonate with users. Think of me as a tech alchemist — turning ideas into digital gold!
+I love weaving together code and creativity to build products that not only work but resonate with users. Think of me as a tech alchemist — **turning ideas into digital gold!**
 
 ## 🔧 Skills & Expertise
 
