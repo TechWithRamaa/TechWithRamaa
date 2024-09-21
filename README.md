@@ -18,8 +18,8 @@
 
 - **Dynamic Software Developer:** Good at dissecting complexity into simplicity, turning ideas ↔ design and design ↔ scalable solutions
 - **User-Centric Focus:** Committed to delight users by delivering innovative solutions and experiences
-- **Champion of Sustainability:** Learning, applying principles for delivering efficient, eco-friendly software solutions
-- **Innovative Mindset:** Eager to push the boundaries of technology in a fast-paced landscape
+- **Champion of Sustainability:** Learning & applying principles for delivering efficient, eco-friendly software solutions
+- **Innovative Mindset:** Solving once-impossible challenges with the power of today's Ideas, Technology & AI
 
 ## 🍋 Skills & Expertise
 
