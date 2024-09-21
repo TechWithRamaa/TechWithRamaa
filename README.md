@@ -14,7 +14,7 @@
 - I love weaving together code and creativity to build products that not only work but resonates with users
 -  Think of me as a tech alchemist — **turning ideas into digital gold !**
 
-## 🌼 Summary
+## 🍁 Summary
 
 - **Dynamic Software Developer:** Passionate about transforming complex challenges into scalable solutions 
 - **User-Centric Focus:** Committed to enhancing user experiences through innovative design
