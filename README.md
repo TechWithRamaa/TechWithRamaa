@@ -48,7 +48,8 @@ Proficient in a diverse set of tools and technologies blessed by the Cloud Nativ
 
 ## 💚 Open Source Advocate
 
-Thrilled to be part of the open-source community — learning, contributing, and evolving! Let’s make some software magic together!
+- Thrilled to be part of the open-source community — learning, contributing, and evolving!
+- Let’s make some software magic together!
 
 ## 📫 Get in Touch
 
