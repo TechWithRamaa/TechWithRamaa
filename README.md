@@ -47,7 +47,7 @@
 
 Proficient in a diverse set of tools and technologies blessed by the Cloud Native Computing Foundation
 
-## 💛 Open Source Advocate
+## 🌍 Open Source Advocate
 
 - Thrilled to be part of the open-source community — learning, contributing, and evolving!
 - Together we make the world more beautiful with technology
