@@ -33,7 +33,7 @@
   - **AI & Machine Learning** 
   - **Prompt Engineering** ( Crafting prompts & re-defining user experience with sytems)
 
-## 🪲 Currently Learning
+## 🛺 Currently Learning
 
 - Diving deep into Distributed Systems
 - Best Practices for Scalable & Reliable Solutions
