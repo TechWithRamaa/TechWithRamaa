@@ -4,9 +4,9 @@ Welcome to my GitHub playground! I’m a Software Developer with a penchant for 
 
 ## 💧 About Me
 
-- **Current Gig:** Software Developer at [Oracle, India](https://oracle.com)  
-- **Education:** Proud alumna of [PSG Tech](https://www.psgtech.edu)  
-- **Career Launchpad:** Kicked off my journey in the fast-paced world of tech startups.
+- **Current Gig:** Software Developer at [Oracle, India](https://oracle.com)
+- **Previous Adventure:** Worked at [Kovan Labs](https://kovanlabs.com) (where we turned wild ideas into reality!)  
+- **Education:** Proud alumna of [PSG Tech](https://www.psgtech.edu)
 
 ## ⚡ My Passion
 
