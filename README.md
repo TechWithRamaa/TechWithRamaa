@@ -14,14 +14,14 @@
 - I love weaving together code and creativity to build products that not only work but resonates with users
 -  Think of me as a tech alchemist — **turning ideas into digital gold !**
 
-## 🔧 Summary
+## 🍀 Summary
 
 - **Dynamic Software Developer:** Passionate about transforming complex challenges into scalable solutions.  
 - **User-Centric Focus:** Committed to enhancing user experiences through innovative design.  
 - **Champion of Sustainability:** Advocating for efficient, eco-friendly software solutions.  
 - **Innovative Mindset:** Eager to push the boundaries of technology in a fast-paced landscape.
 
-## 🔧 Skills & Expertise
+## 🌊 Skills & Expertise
 
 - **Programming Languages:**  
   - Driving computers with **Modern C++20, Java 17, and Python 3.13** (Yes, I keep my codebase **cleaner** than my desk!)
@@ -43,7 +43,7 @@
 - Vector Similarity Search 
 - DevOps & Cloud Systems
 
-## 💥 Tech Stack
+## ⚙️ Tech Stack
 
 Proficient in a diverse set of tools and technologies blessed by the Cloud Native Computing Foundation. ( Yes, I’m basically a cloud whisperer! )
 
@@ -52,7 +52,7 @@ Proficient in a diverse set of tools and technologies blessed by the Cloud Nativ
 - Thrilled to be part of the open-source community — learning, contributing, and evolving!
 - Let’s make some software magic together!
 
-## 📫 Get in Touch
+## 🫰 Get in Touch
 
 - Thanks for stopping by my profile! Let’s build something amazing together!
 - Drop me a line at [techwithramaa@gmail.com](mailto:techwithramaa@gmail.com). 
