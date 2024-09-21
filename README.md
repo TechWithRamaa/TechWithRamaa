@@ -26,13 +26,13 @@ I love weaving together code and creativity to build products that not only work
 
 ## 🌱 Currently Learning
 
-- Diving deep into Distributed Systems (Because every good system needs friends)  
-- Best Practices for Scalable & Reliable Solutions (Scaling like a pro!)  
-- Performance Tuning (Like fine-tuning a guitar, but for code)  
-- Traditional ML & Generative AI (Creating magic with data)  
-- LLMs & RAG (Playing with large language models)  
-- Vector Similarity Search (Finding that one needle in a haystack)  
-- DevOps & Cloud Systems (Because clouds aren’t just for daydreaming!)
+- Diving deep into Distributed Systems
+- Best Practices for Scalable & Reliable Solutions
+- Performance Tuning
+- Traditional ML & Generative AI
+- LLMs & RAG  
+- Vector Similarity Search 
+- DevOps & Cloud Systems
 
 ## 💥 Tech Stack
 
@@ -40,7 +40,7 @@ Proficient in a diverse set of tools and technologies blessed by the Cloud Nativ
 
 ## 💚 Open Source Advocate
 
-Thrilled to be part of the open-source community—learning, contributing, and evolving! Let’s make some software magic together!
+Thrilled to be part of the open-source community — learning, contributing, and evolving! Let’s make some software magic together!
 
 ## 📫 Get in Touch
 
