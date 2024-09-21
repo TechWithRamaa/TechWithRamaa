@@ -1,7 +1,7 @@
 # 🐼 Hello, World! I'm Ramadhevi RK (Ramaa) | She/Her
 
-Welcome to my GitHub playground!
-I’m a Software Developer with a penchant for crafting innovative and sustainable software systems that make the tech world a little brighter.
+- Welcome to my GitHub playground!
+- I’m a Software Developer passionate about architecting innovative and scalable software solutions that drive impact and enhance user experiences in today’s fast-paced tech landscape.
 
 ## 💧 About Me
 
