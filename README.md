@@ -1,6 +1,6 @@
-# 🐼 Hello, World! I'm Ramadhevi RK (Ramaa) | She/Her
+# 🐼 Hello, World! 
 
-- Welcome to my GitHub playground!
+- **I'm Ramadhevi RK (Ramaa) | She/Her**
 - I’m a passionate Software Developer who believes in ble software solutions that drive impact and enhance user experiences in today’s fast-paced tech landscape
 
 ## 💧 About Me
