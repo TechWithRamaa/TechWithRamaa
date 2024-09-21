@@ -26,10 +26,10 @@
   - Driving computers with **Modern C++20, Java 17, and Python 3.13** (Yes, I keep my codebase **cleaner** than my desk!)
 
 - **Core Competencies:**  
-  - Data Structures & Algorithms ( Sorting out the mess, one algorithm at a time! )  
-  - System Design & Design Patterns ( Designing systems that don’t break under pressure )  
-  - Software Engineering & Distributed Systems ( Because who likes to go solo ? )  
-  - AI & Machine Learning ( Making machines a bit smarter)  
+  - **Data Structures & Algorithms** ( Sorting out the mess, one algorithm at a time! )  
+  - **System Design & Design Patterns** ( Designing systems that don’t break under pressure )  
+  - **Software Engineering & Distributed Systems** ( Because who likes to go solo ? )  
+  - **AI & Machine Learning** ( Making machines a bit smarter)  
   - **Prompt Engineering:** Crafting prompts that make AI feel like it’s having a conversation over coffee!
 
 ## 🌱 Currently Learning
