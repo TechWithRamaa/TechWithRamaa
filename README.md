@@ -18,7 +18,7 @@
 
 - **Passionate Software Developer:** Dedicated to deconstructing intricate challenges into elegantly simple solutions  
 - **Architecting Robust Systems:** Crafting scalable applications from the ground up to meet diverse user needs 
-- **Sustainable Design:** Focusing on efficiency in compact environments while minimizing carbon footprints
+- **Sustainable Design:** Focusing on infusing efficiency into Software Systems while minimizing carbon footprints
 
 ## 🔧 Skills & Expertise
 
