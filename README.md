@@ -12,9 +12,9 @@
 
 - 💚 Excited to be a part of the Open Source & Programming community, eager to learn, evolve, and contribute back
   
-- ⛹️‍♀️ Driving computers with Modern C++20, Java 17, Python 3.13, and prompt engineering
+- ⛹️‍♀️ Driving computers with **Modern C++20, Java 17, Python 3.13, and Prompt engineering**
   
-- 📫 Contact me at techwithramaa@gmail.com
+- 📫 **Contact:** techwithramaa@gmail.com
   
 - ⚠️ **Disclaimer: My opinions are my own and may not reflect that of my employer**
 
