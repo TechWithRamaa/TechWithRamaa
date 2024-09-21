@@ -16,9 +16,10 @@
 
 ## 🔧 Summary
 
-- **Passionate Software Developer:** Dedicated to deconstructing intricate challenges into elegantly simple solutions  
-- **Architecting Robust Systems:** Crafting scalable applications from the ground up to meet diverse user needs 
-- **Sustainable Design:** Focusing on infusing efficiency into Software Systems while minimizing carbon footprints
+- **Dynamic Software Developer:** Passionate about transforming complex challenges into scalable solutions.  
+- **User-Centric Focus:** Committed to enhancing user experiences through innovative design.  
+- **Champion of Sustainability:** Advocating for efficient, eco-friendly software solutions.  
+- **Innovative Mindset:** Eager to push the boundaries of technology in a fast-paced landscape.
 
 ## 🔧 Skills & Expertise
 
