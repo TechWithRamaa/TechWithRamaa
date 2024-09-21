@@ -7,7 +7,7 @@ I’m a Software Developer with a penchant for crafting innovative and sustainab
 
 - **Current Gig:** Software Developer at [Oracle, India](https://oracle.com)
 - **Previous Adventure:** Worked at [Kovan Labs](https://kovanlabs.com) (where we turned wild ideas into reality!)  
-- **Education:** Proud alumna of [PSG Tech](https://www.psgtech.edu)
+- **Education:** Holds **Master of Science in Software Engineering** and a proud alumna of [PSG Tech]([https://www.psgtech.edu](https://www.psgtech.edu/department_page.php)), where I laid the foundation for my passion in technology and innovation.
 
 ## ⚡ My Passion
 
