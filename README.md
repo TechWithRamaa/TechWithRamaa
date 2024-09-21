@@ -16,7 +16,7 @@ I love weaving together code and creativity to build products that not only work
 ## 🔧 Skills & Expertise
 
 - **Programming Languages:**  
-  - Driving computers with Modern C++20, Java 17, and Python 3.13 (Yes, I keep my syntax cleaner than my desk!)
+  - Driving computers with Modern C++20, Java 17, and Python 3.13 (Yes, I keep my codebase **cleaner** than my desk!)
 
 - **Core Competencies:**  
   - Data Structures & Algorithms (Sorting out the mess, one algorithm at a time!)  
