@@ -30,7 +30,7 @@
   - **System Design & Design Patterns** ( Designing systems that don’t break under pressure )  
   - **Software Engineering & Distributed Systems** ( Because who likes to go solo ? )  
   - **AI & Machine Learning** ( Making machines a bit smarter)  
-  - **Prompt Engineering:** Crafting prompts that make AI feel like it’s having a conversation over coffee!
+  - **Prompt Engineering:** ( Crafting prompts & super-charging user interactions with systems)
 
 ## 🌱 Currently Learning
 
