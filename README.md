@@ -3,7 +3,7 @@
 - I'm Ramadhevi RK (**Ramaa**) | She/Her
 - Practicing as a Software Engineer, supercharging existing systems with AI to create products that meets tomorrow's challenges
 
-## 💧 About Me
+## 🥑 About Me
 
 - **Current Gig:** Software Developer at [Oracle, India](https://oracle.com)
 - **Previous Adventure:** Worked at [Kovan Labs](https://kovanlabs.com) (where we turned wild ideas into reality ! )  
