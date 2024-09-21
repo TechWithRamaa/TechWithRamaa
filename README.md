@@ -11,13 +11,14 @@
 
 ## ⚡ My Passion
 
-I love weaving together code and creativity to build products that not only work but resonate with users. Think of me as a tech alchemist — **turning ideas into digital gold!**
+- I love weaving together code and creativity to build products that not only work but resonate with users
+-  Think of me as a tech alchemist — **turning ideas into digital gold!**
 
 ## 🔧 Summary
 
-- **Passionate Software Developer:** Dedicated to deconstructing intricate challenges into elegantly simple solutions.  
-- **Architecting Robust Systems:** Crafting scalable applications from the ground up to meet diverse user needs.  
-- **Sustainable Design:** Focusing on efficiency in compact environments while minimizing carbon footprints.  
+- **Passionate Software Developer:** Dedicated to deconstructing intricate challenges into elegantly simple solutions  
+- **Architecting Robust Systems:** Crafting scalable applications from the ground up to meet diverse user needs 
+- **Sustainable Design:** Focusing on efficiency in compact environments while minimizing carbon footprints
 
 ## 🔧 Skills & Expertise
 
