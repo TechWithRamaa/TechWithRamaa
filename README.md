@@ -55,7 +55,7 @@ Proficient in a diverse set of tools and technologies blessed by the Cloud Nativ
 ## 🧃 Get in Touch
 
 - Thanks for stopping by my profile! Let’s build something amazing together!
-- Drop me a line at [techwithramaa@gmail.com](mailto:techwithramaa@gmail.com)
+- Drop me a mail at [techwithramaa@gmail.com](mailto:techwithramaa@gmail.com)
 
 ## ‼️ **Disclaimer:**  
 - The thoughts expressed here are all mine — my employer may or may not approve of my quirky sense of humor!
