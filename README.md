@@ -52,7 +52,7 @@ Proficient in a diverse set of tools and technologies blessed by the Cloud Nativ
 - Thrilled to be part of the open-source community — learning, contributing, and evolving!
 - Let’s make some software magic together!
 
-## 🍵 Get in Touch
+## 🧃 Get in Touch
 
 - Thanks for stopping by my profile! Let’s build something amazing together!
 - Drop me a line at [techwithramaa@gmail.com](mailto:techwithramaa@gmail.com)
