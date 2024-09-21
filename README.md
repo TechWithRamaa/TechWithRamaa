@@ -9,7 +9,7 @@
 - **Previous Adventure:** Worked at [Kovan Labs](https://kovanlabs.com) (where we turned wild ideas into reality ! )  
 - **Education:** Holds **Master of Science in Software Engineering** and a proud alumna of [PSG Tech](https://www.psgtech.edu/department_page.php)
 
-## ⚡ My Passion
+## 🪸 My Passion
 
 - I love weaving together code and creativity to build products that not only work but resonates with users
 -  Think of me as a tech alchemist — **turning ideas into digital gold !**
