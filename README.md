@@ -52,14 +52,13 @@ Thrilled to be part of the open-source community — learning, contributing, and
 
 ## 📫 Get in Touch
 
-Want to chat? I’d love to hear from you! Drop me a line at [techwithramaa@gmail.com](mailto:techwithramaa@gmail.com). 
+- Thanks for stopping by my profile! Let’s build something amazing together!
+- Drop me a line at [techwithramaa@gmail.com](mailto:techwithramaa@gmail.com). 
 
 ⚠️ **Disclaimer:**  
 The thoughts expressed here are all mine—my employer may or may not approve of my quirky sense of humor!
 
 ---
-
-Thanks for stopping by my profile! Let’s build something amazing together!
 
 
 <!---
