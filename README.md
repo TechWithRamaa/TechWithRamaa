@@ -21,7 +21,7 @@
 - **Champion of Sustainability:** Advocating for efficient, eco-friendly software solutions
 - **Innovative Mindset:** Eager to push the boundaries of technology in a fast-paced landscape
 
-## ☄️ Skills & Expertise
+## 🍉 Skills & Expertise
 
 - **Programming Languages:**  
   - Driving computers with **Modern C++20, Java 17, and Python 3.13** (Yes, I keep my codebase **cleaner** than my desk!)
@@ -33,7 +33,7 @@
   - **AI & Machine Learning** ( Making machines a bit smarter)  
   - **Prompt Engineering** ( Crafting prompts & super-charging user interactions with systems)
 
-## 🐥 Currently Learning
+## 🥭 Currently Learning
 
 - Diving deep into Distributed Systems
 - Best Practices for Scalable & Reliable Solutions
