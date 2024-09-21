@@ -1,7 +1,7 @@
 # 🐼 Hello, World! I'm Ramadhevi RK (Ramaa) | She/Her
 
 - Welcome to my GitHub playground!
-- I’m a Software Developer passionate about architecting innovative and scalable software solutions that drive impact and enhance user experiences in today’s fast-paced tech landscape.
+- I’m a passionate Software Developer who believes in ble software solutions that drive impact and enhance user experiences in today’s fast-paced tech landscape.
 
 ## 💧 About Me
 
@@ -12,6 +12,12 @@
 ## ⚡ My Passion
 
 I love weaving together code and creativity to build products that not only work but resonate with users. Think of me as a tech alchemist — **turning ideas into digital gold!**
+
+## 🔧 Summary
+
+- **Passionate Software Developer:** Dedicated to deconstructing intricate challenges into elegantly simple solutions.  
+- **Architecting Robust Systems:** Crafting scalable applications from the ground up to meet diverse user needs.  
+- **Sustainable Design:** Focusing on efficiency in compact environments while minimizing carbon footprints.  
 
 ## 🔧 Skills & Expertise
 
