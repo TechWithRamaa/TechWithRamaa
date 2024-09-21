@@ -16,10 +16,10 @@
 
 ## 🍀 Summary
 
-- **Dynamic Software Developer:** Passionate about transforming complex challenges into scalable solutions.  
-- **User-Centric Focus:** Committed to enhancing user experiences through innovative design.  
-- **Champion of Sustainability:** Advocating for efficient, eco-friendly software solutions.  
-- **Innovative Mindset:** Eager to push the boundaries of technology in a fast-paced landscape.
+- **Dynamic Software Developer:** Passionate about transforming complex challenges into scalable solutions 
+- **User-Centric Focus:** Committed to enhancing user experiences through innovative design
+- **Champion of Sustainability:** Advocating for efficient, eco-friendly software solutions
+- **Innovative Mindset:** Eager to push the boundaries of technology in a fast-paced landscape
 
 ## ☄️ Skills & Expertise
 
@@ -45,7 +45,7 @@
 
 ## 🧳 Tech Stack
 
-Proficient in a diverse set of tools and technologies blessed by the Cloud Native Computing Foundation. ( Yes, I’m basically a cloud whisperer! )
+Proficient in a diverse set of tools and technologies blessed by the Cloud Native Computing Foundation
 
 ## 💚 Open Source Advocate
 
@@ -55,7 +55,7 @@ Proficient in a diverse set of tools and technologies blessed by the Cloud Nativ
 ## 🍕 Get in Touch
 
 - Thanks for stopping by my profile! Let’s build something amazing together!
-- Drop me a line at [techwithramaa@gmail.com](mailto:techwithramaa@gmail.com). 
+- Drop me a line at [techwithramaa@gmail.com](mailto:techwithramaa@gmail.com)
 
 ## 🦩 **Disclaimer:**  
 - The thoughts expressed here are all mine — my employer may or may not approve of my quirky sense of humor!
