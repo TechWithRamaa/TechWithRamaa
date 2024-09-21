@@ -11,7 +11,7 @@
 
 ## ⚡ My Passion
 
-- I love weaving together code and creativity to build products that not only work but resonate with users
+- I love weaving together code and creativity to build products that not only work but resonates with users
 -  Think of me as a tech alchemist — **turning ideas into digital gold!**
 
 ## 🔧 Summary
