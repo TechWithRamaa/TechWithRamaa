@@ -16,7 +16,7 @@
 
 ## 🍁 Summary
 
-- **Dynamic Software Developer** Thrives on tackling real-world challenges, enjoys building tools and technologies while exploring the nuts and bolts of architectures
+- **Dynamic Software Developer:** Thrives on tackling real-world challenges, enjoys building tools and technologies, and explores the nuts and bolts of well-thought-out architectures
 - **User-Centric Focus:** Committed to delight users by delivering innovations and experiences
 - **Champion of Sustainability:** Practising, applying best principles for delivering high-performant, eco-friendly PRODUCTs
 - **Innovative Mindset:** Solving once-impossible challenges and incorporating into systems with the power of technology and AI
