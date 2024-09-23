@@ -43,7 +43,7 @@
 - Vector Similarity Search 
 - DevOps & Cloud Systems
 
-## 🪸 Tech Stack
+## 🪸 About my Toolbox
 
 Proficient in a diverse set of tools and technologies blessed by the Cloud Native Computing Foundation
 
