@@ -11,7 +11,7 @@
 
 ## 🏄‍♀️ My Passion
 
--  Having fun dissecting complex challenges into simpler ones and turning ideas -> design and design -> scalable solutions
+-  Having fun deconstructing complex challenges into simpler ones and turning ideas -> design and design -> scalable solutions
 -  Think of me as a tech alchemist — **turning ideas into digital gold !**
 
 ## 🍁 Summary
