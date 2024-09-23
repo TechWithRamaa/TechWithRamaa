@@ -11,7 +11,7 @@
 
 ## 🏄‍♀️ My Passion
 
--  The idea of weaving design, code and creativity thrills to build products that not only work but resonates with users
+-  The idea of weaving design, code and creativity thrills me to build products that not only work but resonates with users
 -  Think of me as a tech alchemist — **turning ideas into digital gold !**
 
 ## 🍁 Summary
