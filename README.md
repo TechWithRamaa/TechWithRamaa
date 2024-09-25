@@ -20,7 +20,7 @@
 - **User-Centric Focus:** Committed to delight users by delivering innovations and experiences
 - **Champion of Sustainability:** Practising, applying best principles for delivering high-performant, eco-friendly PRODUCTs
 - **Innovative Mindset:** Solving once-impossible challenges and incorporating into systems with the power of technology and AI
-- **Communication and Collaboration:** Skilled at nurturing creative thinking and collaboration, ensuring seamless communication and idea exchange to spark innovation and expand knowledge
+- **Communication and Collaboration:** Skilled at nurturing creativity and collaboration, facilitating seamless communication and idea exchange to drive innovation and expand knowledge
 
 
 ## 🍋‍🟩 Skills & Expertise
