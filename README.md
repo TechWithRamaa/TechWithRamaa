@@ -48,6 +48,7 @@
 ## 🪸 About my Toolbox
 
 Proficient in a diverse set of tools and technologies blessed by the Cloud Native Computing Foundation
+![C++ Logo](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg) ![Java Logo](https://upload.wikimedia.org/wikipedia/en/3/30/Java_logo_and_wordmark.svg) ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 
 ## 🌍 Open Source Advocate
 
