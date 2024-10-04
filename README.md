@@ -44,6 +44,7 @@
 - LLMs & RAG  
 - Vector Similarity Search 
 - DevOps & Cloud Systems
+- Brainstorming over tech, data structures, algorithms, career, and films
 
 ## 🪸 About my Toolbox
 
