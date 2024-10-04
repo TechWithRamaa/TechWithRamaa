@@ -59,8 +59,7 @@ Proficient in a diverse set of tools and technologies blessed by the Cloud Nativ
 [![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=plastic&logo=gatsby&logoColor=white)](https://gatsbyjs.com/)
 [![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=plastic&logo=ionic&logoColor=white)](https://ionicframework.com/)
 [![Cordova](https://img.shields.io/badge/Cordova-35434F?style=plastic&logo=apache-cordova&logoColor=E8E8E8)](https://cordova.apache.org/)
-
-### ⚙️ Back-end Technologies
+#### ⚙️ Back-end Technologies
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)](https://www.python.org/)
@@ -71,7 +70,7 @@ Proficient in a diverse set of tools and technologies blessed by the Cloud Nativ
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white)](https://spring.io/)
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=Hibernate&logoColor=white)](https://hibernate.org/orm/)
 [![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=plastic&logo=Spring-Security&logoColor=white)](https://spring.io/projects/spring-security)
-### 🗄️ Databases
+#### 🗄️ Databases
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)](https://www.mysql.com/)
@@ -81,7 +80,7 @@ Proficient in a diverse set of tools and technologies blessed by the Cloud Nativ
 [![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=plastic&logo=neo4j&logoColor=white)](https://neo4j.com/)
 [![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=plastic&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=plastic&logo=redis&logoColor=white)](https://redis.io/)
-### ☁️ Operations
+#### ☁️ Operations
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=plastic&logo=google-cloud&logoColor=white)](https://cloud.google.com/?hl=en)
 [![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)](https://www.docker.com/)
@@ -92,7 +91,7 @@ Proficient in a diverse set of tools and technologies blessed by the Cloud Nativ
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=plastic&logo=trello&logoColor=white)](http://trello.com/)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white)](https://www.notion.so/)
 [![Miro](https://img.shields.io/badge/Miro-050038?style=plastic&logo=Miro&logoColor=white)](https://miro.com/)
-### 🧠 Machine Learning
+#### 🧠 Machine Learning
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 [![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/user_guide.html)
 [![SciPy](https://img.shields.io/badge/SciPy-654FF0?style=plastic&logo=SciPy&logoColor=white)](https://scipy.org/)
