@@ -120,5 +120,5 @@ Proficient in a diverse set of tools and technologies blessed by the Cloud Nativ
 
 - Let’s build something great! Reach out at [techwithramaa@gmail.com](mailto:techwithramaa@gmail.com)
 
-## ‼️ **Disclaimer:**  
+## ! **Disclaimer:**  
 - The thoughts expressed here are all mine — my employer may or may not approve of my quirky sense of humor!
