@@ -118,16 +118,7 @@ Proficient in a diverse set of tools and technologies blessed by the Cloud Nativ
 
 ## 💫 Get in Touch
 
-- Thanks for stopping by my profile! Let’s build something amazing together!
-- Drop me a mail at [techwithramaa@gmail.com](mailto:techwithramaa@gmail.com)
+- Let’s build something great! Reach out at [techwithramaa@gmail.com](mailto:techwithramaa@gmail.com)
 
 ## ‼️ **Disclaimer:**  
 - The thoughts expressed here are all mine — my employer may or may not approve of my quirky sense of humor!
-
----
-
-
-<!---
-EngineeringWithRamaa/EngineeringWithRamaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
