@@ -50,7 +50,7 @@
 
 Proficient in a diverse set of tools and technologies blessed by the Cloud Native Computing Foundation
 
-### 🔧 Front-end Technologies
+#### 🔧 Front-end Technologies
 [![HTML 5](https://img.shields.io/badge/HTML-E34F26.svg?style=plastic&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [![CSS](https://img.shields.io/badge/CSS-1572B6.svg?style=plastic&logo=css3&logoColor=white)](https://www.css3.info/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=plastic&logo=javascript&logoColor=black)](https://www.javascript.com/)
@@ -71,7 +71,6 @@ Proficient in a diverse set of tools and technologies blessed by the Cloud Nativ
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white)](https://spring.io/)
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=Hibernate&logoColor=white)](https://hibernate.org/orm/)
 [![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=plastic&logo=Spring-Security&logoColor=white)](https://spring.io/projects/spring-security)
-
 ### 🗄️ Databases
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
@@ -82,7 +81,6 @@ Proficient in a diverse set of tools and technologies blessed by the Cloud Nativ
 [![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=plastic&logo=neo4j&logoColor=white)](https://neo4j.com/)
 [![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=plastic&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=plastic&logo=redis&logoColor=white)](https://redis.io/)
-
 ### ☁️ Operations
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=plastic&logo=google-cloud&logoColor=white)](https://cloud.google.com/?hl=en)
 [![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
@@ -94,7 +92,6 @@ Proficient in a diverse set of tools and technologies blessed by the Cloud Nativ
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=plastic&logo=trello&logoColor=white)](http://trello.com/)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white)](https://www.notion.so/)
 [![Miro](https://img.shields.io/badge/Miro-050038?style=plastic&logo=Miro&logoColor=white)](https://miro.com/)
-
 ### 🧠 Machine Learning
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 [![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/user_guide.html)
