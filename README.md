@@ -89,6 +89,7 @@ Proficient in a diverse set of tools and technologies blessed by the Cloud Nativ
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)](https://www.jenkins.io/)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](https://www.atlassian.com/software/jira)
 
+[![Docker](./docker-svgrepo-com.svg)](https://www.docker.com/)
 
 
 
