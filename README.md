@@ -77,4 +77,5 @@ Proficient in a diverse set of tools and technologies blessed by the Cloud Nativ
 
 ## 🌸 Thank you for stopping by!
 
-Drop me a mail at **[TechWithRamaa](techwithramaa@gmail.com)** — Let's create magic!
+Drop me a mail at [TechWithRamaa](mailto:TechWithRamaa@example.com) — Let's create magic!
+
