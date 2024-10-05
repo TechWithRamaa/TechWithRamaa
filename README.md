@@ -1,7 +1,7 @@
 ## 🐼 Hello, World! 
 
 - I'm Ramadhevi RK (**Ramaa**) | She/Her
-- Practicing Software Engineering, supercharging existing systems with AI to create products that meet tomorrow's challenges
+- Practicing Software Engineering, **supercharging** existing systems with AI to create products that **meet tomorrow's challenges**
 
 ## 🥑 About Me
 
@@ -11,8 +11,8 @@
 
 ## 🏄‍♀️ My Passion
 
-- Having fun deconstructing complex challenges into simpler ones and turning ideas -> design and design -> scalable solutions
-- Enjoys building tools and technologies, and explores the nuts & bolts of well-thought-out architectures
+- Having fun **deconstructing** complex challenges into simpler ones and **turning ideas to design** and **design to scalable solutions**
+- Enjoys building tools and technologies, and **explores the nuts & bolts** of well-thought-out architectures
 - Think of me as a tech alchemist — **turning ideas into digital gold!**
 
 ## 🚀 Skills & Interests
