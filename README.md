@@ -17,18 +17,18 @@
 
 ## 🚀 Skills & Interests
 
-### 🧑‍💻 Programming Mastery
-- Crafting efficient, scalable solutions in **Modern C++20, Java 17, and Python 3.13**—keeping my code as clean as it is powerful
+&nbsp;&nbsp; ### 🧑‍💻 Programming Mastery
+&nbsp;&nbsp; - Crafting efficient, scalable solutions in **Modern C++20, Java 17, and Python 3.13**—keeping my code as clean as it is powerful
 
 ### 💡 Core Strengths
-- From **Data Structures & Algorithms** to **System Design & Distributed Systems**, I build robust, scalable systems that thrive under pressure. Toss in some **AI & Machine Learning**, **Prompt Engineering**, and **Design Patterns** for good measure, and you've got the perfect blend of innovation and reliability
+&nbsp;&nbsp; - From **Data Structures & Algorithms** to **System Design & Distributed Systems**, I build robust, scalable systems that thrive under pressure. Toss in some **AI & Machine Learning**, **Prompt Engineering**, and **Design Patterns** for good measure, and you've got the perfect blend of innovation and reliability
 
 ### 🔍 Current Focus
-- Exploring **Distributed Systems**, **Performance Tuning**, **Generative AI**, **Database Internals**, and **Parallelism & Concurrency**
+&nbsp;&nbsp; - Exploring **Distributed Systems**, **Performance Tuning**, **Generative AI**, **Database Internals**, and **Parallelism & Concurrency**
 
 ## ☕ About my Toolbox
 
-Proficient in a diverse set of tools and technologies blessed by the Cloud Native Computing Foundation
+&nbsp;&nbsp; - Proficient in a diverse set of tools and technologies blessed by the Cloud Native Computing Foundation
 
 - #### Front-end Technologies
 &nbsp;&nbsp;&nbsp;&nbsp;[![HTML 5](https://img.shields.io/badge/HTML-E34F26.svg?style=plastic&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
@@ -41,7 +41,7 @@ Proficient in a diverse set of tools and technologies blessed by the Cloud Nativ
 [![Cordova](https://img.shields.io/badge/Cordova-35434F?style=plastic&logo=apache-cordova&logoColor=E8E8E8)](https://cordova.apache.org/)
 
 - #### Back-end Technologies
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+&nbsp;&nbsp;&nbsp;&nbsp;[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)](https://www.python.org/)
 [![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=plastic&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
@@ -53,7 +53,7 @@ Proficient in a diverse set of tools and technologies blessed by the Cloud Nativ
 [![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=plastic&logo=Spring-Security&logoColor=white)](https://spring.io/projects/spring-security)
 
 - #### Databases
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+&nbsp;&nbsp;&nbsp;&nbsp;[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white)](http://aws.amazon.com/dynamodb/)
@@ -64,7 +64,7 @@ Proficient in a diverse set of tools and technologies blessed by the Cloud Nativ
 [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=plastic&logo=redis&logoColor=white)](https://redis.io/)
 
 - #### Operations
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=plastic&logo=google-cloud&logoColor=white)](https://cloud.google.com/?hl=en)
+&nbsp;&nbsp;&nbsp;&nbsp;[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=plastic&logo=google-cloud&logoColor=white)](https://cloud.google.com/?hl=en)
 [![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
