@@ -24,9 +24,6 @@
 - From **Data Structures & Algorithms** to **System Design & Distributed Systems**, I build robust, scalable systems that thrive under pressure
 - Toss in some **AI & Machine Learning**, **Prompt Engineering**, and **Design Patterns** for good measure, to get the perfect blend of innovation and reliability
 
-- #### Current Focus
-&nbsp;&nbsp;&nbsp;&nbsp; - Exploring **Distributed Systems**, **Performance Tuning**, **Generative AI**, **Database Internals**, and **Parallelism & Concurrency**
-
 ## ☕ About my Toolbox
 
 &nbsp;&nbsp;&nbsp;&nbsp; Proficient in a diverse set of tools and technologies blessed by the **Cloud Native Computing Foundation**
