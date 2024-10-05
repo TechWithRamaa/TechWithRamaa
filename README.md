@@ -1,6 +1,6 @@
 ## 🐼 Hello, World! 
 
-- I'm Ramadhevi RK (**Ramaa**), Thriving at the intersection of **Software Engineering**, Artificial Intelligence, and Data Engineering **to drive innovation**
+- I'm Ramadhevi RK (**Ramaa**), Shaping the future through the fusion of **Software Engineering, AI, and Data Engineering**
 - Practicing Software Engineering, **supercharging** existing systems with AI to create products that **meet tomorrow's challenges**
 
 ## 🥑 About Me
