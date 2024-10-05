@@ -5,7 +5,7 @@
 
 ## 🥑 About Me
 
-- **Current Gig:** Software Developer at **[Oracle, India](https://oracle.com)** (building technologies & scaling Credits Suite to millions of users)
+- **Current Gig:** Software Developer at **[Oracle, India](https://oracle.com)** (building technologies & scaling **Credits Suite** to millions of users)
 - **Previous Adventure:** Worked at **[Kovan Labs](https://kovanlabs.com)** (where we transformed ambitious ideas into innovative solutions)  
 - **Education:** Holds **Master of Science in Software Engineering** and a proud alumna of **[PSG College of Technology](https://www.psgtech.edu/index1.php)**
 
