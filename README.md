@@ -29,7 +29,7 @@
 
 ## ☕ About my Toolbox
 
-&nbsp;&nbsp;&nbsp;&nbsp; Proficient in a diverse set of tools and technologies blessed by the Cloud Native Computing Foundation
+&nbsp;&nbsp;&nbsp;&nbsp; Proficient in a diverse set of tools and technologies blessed by the **Cloud Native Computing Foundation**
 
 - #### Front-end Technologies
 &nbsp;&nbsp;&nbsp;&nbsp;[![HTML 5](https://img.shields.io/badge/HTML-E34F26.svg?style=plastic&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
