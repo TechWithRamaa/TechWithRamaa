@@ -1,36 +1,36 @@
 ## 🐼 Hello, World! 
 
 - I'm Ramadhevi RK (**Ramaa**) | She/Her
-- Practicing Software Engineering, supercharging existing systems with AI to create products that meets tomorrow's challenges
+- Practicing Software Engineering, supercharging existing systems with AI to create products that meet tomorrow's challenges
 
 ## 🥑 About Me
 
 - **Current Gig:** Software Developer at **[Oracle, India](https://oracle.com)** (building technologies & scaling Credits Suite to millions of users)
-- **Previous Adventure:** Worked at **[Kovan Labs](https://kovanlabs.com)**  (where we turned wild ideas into reality!)  
+- **Previous Adventure:** Worked at **[Kovan Labs](https://kovanlabs.com)** (where we turned wild ideas into reality!)  
 - **Education:** Holds **Master of Science in Software Engineering** and a proud alumna of **[PSG College of Technology](https://www.psgtech.edu/index1.php)**
 
 ## 🏄‍♀️ My Passion
 
--  Having fun deconstructing complex challenges into simpler ones and turning ideas -> design and design -> scalable solutions
--  Enjoys building tools and technologies, and explores the nuts & bolts of well-thought-out architectures
--  Think of me as a tech alchemist — **turning ideas into digital gold !**
+- Having fun deconstructing complex challenges into simpler ones and turning ideas -> design and design -> scalable solutions
+- Enjoys building tools and technologies, and explores the nuts & bolts of well-thought-out architectures
+- Think of me as a tech alchemist — **turning ideas into digital gold!**
 
-# 🚀 Skills & Interests
+## 🚀 Skills & Interests
 
--  ### 🧑‍💻 Programming Mastery
-Crafting efficient, bug-free solutions in **Modern C++20, Java 17, and Python 3.13**—keeping my code as clean as it is powerful.
+### 🧑‍💻 Programming Mastery
+- Crafting efficient, bug-free solutions in **Modern C++20, Java 17, and Python 3.13**—keeping my code as clean as it is powerful.
 
-- ### 💡 Core Strengths
-From **Data Structures & Algorithms** to **System Design & Distributed Systems**, I build robust, scalable systems that thrive under pressure. Toss in some **AI & Machine Learning**, **Prompt Engineering**, and **Design Patterns** for good measure, and you've got the perfect blend of innovation and reliability.
+### 💡 Core Strengths
+- From **Data Structures & Algorithms** to **System Design & Distributed Systems**, I build robust, scalable systems that thrive under pressure. Toss in some **AI & Machine Learning**, **Prompt Engineering**, and **Design Patterns** for good measure, and you've got the perfect blend of innovation and reliability.
 
-- ### 🔍 Current Focus
-Exploring **Distributed Systems**, **Performance Tuning**, **LLMs & RAG**, **Vector Similarity Search**, and **Cloud DevOps**. Always up for a good chat about tech, scaling challenges, or even a deep dive into movies !
+### 🔍 Current Focus
+- Exploring **Distributed Systems**, **Performance Tuning**, **LLMs & RAG**, **Vector Similarity Search**, and **Cloud DevOps**. Always up for a good chat about tech, scaling challenges, or even a deep dive into movies!
 
 ## 🪸 About my Toolbox
 
 Proficient in a diverse set of tools and technologies blessed by the Cloud Native Computing Foundation
 
-#### 🔧 Front-end Technologies
+### 🔧 Front-end Technologies
 [![HTML 5](https://img.shields.io/badge/HTML-E34F26.svg?style=plastic&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [![CSS](https://img.shields.io/badge/CSS-1572B6.svg?style=plastic&logo=css3&logoColor=white)](https://www.css3.info/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=plastic&logo=javascript&logoColor=black)](https://www.javascript.com/)
@@ -39,7 +39,8 @@ Proficient in a diverse set of tools and technologies blessed by the Cloud Nativ
 [![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=plastic&logo=gatsby&logoColor=white)](https://gatsbyjs.com/)
 [![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=plastic&logo=ionic&logoColor=white)](https://ionicframework.com/)
 [![Cordova](https://img.shields.io/badge/Cordova-35434F?style=plastic&logo=apache-cordova&logoColor=E8E8E8)](https://cordova.apache.org/)
-#### ⚙️ Back-end Technologies
+
+### ⚙️ Back-end Technologies
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)](https://www.python.org/)
@@ -50,7 +51,8 @@ Proficient in a diverse set of tools and technologies blessed by the Cloud Nativ
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white)](https://spring.io/)
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=Hibernate&logoColor=white)](https://hibernate.org/orm/)
 [![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=plastic&logo=Spring-Security&logoColor=white)](https://spring.io/projects/spring-security)
-#### 🗄️ Databases
+
+### 🗄️ Databases
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)](https://www.mysql.com/)
@@ -60,7 +62,8 @@ Proficient in a diverse set of tools and technologies blessed by the Cloud Nativ
 [![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=plastic&logo=neo4j&logoColor=white)](https://neo4j.com/)
 [![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=plastic&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=plastic&logo=redis&logoColor=white)](https://redis.io/)
-#### ☁️ Operations
+
+### ☁️ Operations
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=plastic&logo=google-cloud&logoColor=white)](https://cloud.google.com/?hl=en)
 [![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)](https://www.docker.com/)
@@ -71,25 +74,7 @@ Proficient in a diverse set of tools and technologies blessed by the Cloud Nativ
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=plastic&logo=trello&logoColor=white)](http://trello.com/)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white)](https://www.notion.so/)
 [![Miro](https://img.shields.io/badge/Miro-050038?style=plastic&logo=Miro&logoColor=white)](https://miro.com/)
-#### 🧠 Machine Learning
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
-[![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/user_guide.html)
-[![SciPy](https://img.shields.io/badge/SciPy-654FF0?style=plastic&logo=SciPy&logoColor=white)](https://scipy.org/)
-[![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=plastic&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=plastic&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Plotly](https://img.shields.io/badge/Plotly-2398EF?style=plastic&logo=plotly&logoColor=white)](https://plotly.com/python/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=opencv&logoColor=white)](https://opencv.org/)
-[![Keras](https://img.shields.io/badge/Keras-D00000?style=plastic&logo=Keras&logoColor=white)](https://keras.io/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-003A70?style=plastic&logo=Matplotlib&logoColor=white)](https://matplotlib.org/)
 
-## 🌍 Open Source Advocate
+## 🌸 Thank you for stopping by!
 
-- Thrilled to be part of the open-source community — learning, contributing, and evolving!
-- Together we make the world more beautiful with technology
-
-## 💫 Get in Touch
-
-- Let’s build something fascinating! Reach out at [techwithramaa@gmail.com](mailto:techwithramaa@gmail.com)
-
-## ❗ **Disclaimer:**  
-- The thoughts expressed here are all mine — my employer may or may not approve of my quirky sense of humor!
+Drop me a mail at **[TechWithRamaa](techwithramaa@gmail.com)** — Let's create magic!
