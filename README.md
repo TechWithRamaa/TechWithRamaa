@@ -18,17 +18,18 @@
 ## 🚀 Skills & Interests
 
 ### 🧑‍💻 Programming Mastery
-&nbsp;&nbsp; - Crafting efficient, scalable solutions in **Modern C++20, Java 17, and Python 3.13**—keeping my code as clean as it is powerful
+- Crafting efficient, scalable solutions in **Modern C++20, Java 17, and Python 3.13**—keeping my code as clean as it is powerful
 
 ### 💡 Core Strengths
-&nbsp;&nbsp; - From **Data Structures & Algorithms** to **System Design & Distributed Systems**, I build robust, scalable systems that thrive under pressure. Toss in some **AI & Machine Learning**, **Prompt Engineering**, and **Design Patterns** for good measure, and you've got the perfect blend of innovation and reliability
+- From **Data Structures & Algorithms** to **System Design & Distributed Systems**, I build robust, scalable systems that thrive under pressure.
+- Toss in some **AI & Machine Learning**, **Prompt Engineering**, and **Design Patterns** for good measure, to get the perfect blend of innovation and reliability
 
 ### 🔍 Current Focus
-&nbsp;&nbsp; - Exploring **Distributed Systems**, **Performance Tuning**, **Generative AI**, **Database Internals**, and **Parallelism & Concurrency**
+- Exploring **Distributed Systems**, **Performance Tuning**, **Generative AI**, **Database Internals**, and **Parallelism & Concurrency**
 
 ## ☕ About my Toolbox
 
-&nbsp;&nbsp; - Proficient in a diverse set of tools and technologies blessed by the Cloud Native Computing Foundation
+- Proficient in a diverse set of tools and technologies blessed by the Cloud Native Computing Foundation
 
 - #### Front-end Technologies
 &nbsp;&nbsp;&nbsp;&nbsp;[![HTML 5](https://img.shields.io/badge/HTML-E34F26.svg?style=plastic&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
