@@ -21,7 +21,7 @@
 - **Core Strengths**: From **Data Structures & Algorithms** to **System Design & Distributed Systems**, I build robust, scalable systems that thrive under pressure
 - **Secret Sauce**: Toss in some **AI & Machine Learning**, **Prompt Engineering**, and **Design Patterns** to get the perfect outcome of innovation
 
-## ☕ About my Toolbox & the laboratory
+## ☕ About my toolbox & the laboratory
 
 &nbsp;&nbsp;&nbsp;&nbsp; Proficient in a diverse set of tools and technologies blessed by the **Cloud Native Computing Foundation**
 
@@ -50,7 +50,6 @@
 - #### Databases
 &nbsp;&nbsp;&nbsp;&nbsp;[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white)](http://aws.amazon.com/dynamodb/)
 [![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=plastic&logo=apache%20cassandra&logoColor=white)](https://cassandra.apache.org/)
 [![Elastic Search](https://img.shields.io/badge/Elastic_Search-005571?style=plastic&logo=elasticsearch&logoColor=white)](https://www.elastic.co/elasticsearch/)
