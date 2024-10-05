@@ -12,7 +12,7 @@
 ## 🏄‍♀️ My Passion
 
 - Having fun **deconstructing** complex challenges into simpler ones and **turning ideas to design** and **design to scalable solutions**
-- Enjoys **building tools and technologies**, and **explores the nuts & bolts** of well-thought-out architectures
+- Enjoys **building tools and technologies**, and **explores nuts & bolts** of well-thought-out architectures
 - Think of me as a tech alchemist — **turning ideas into digital gold!**
 
 ## 🚀 Skills & Interests
