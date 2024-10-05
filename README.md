@@ -1,6 +1,6 @@
 ## 🐼 Hello, World! 
 
-- I'm Ramadhevi RK (**Ramaa**) | She/Her
+- I'm Ramadhevi RK (**Ramaa**), fascinated by the intersection of Software Engineering, Data Science, Machine Learning, and Data Engineering
 - Practicing Software Engineering, **supercharging** existing systems with AI to create products that **meet tomorrow's challenges**
 
 ## 🥑 About Me
