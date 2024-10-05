@@ -15,7 +15,7 @@
 - Enjoys **building tools and technologies**, and **explores** the **nuts & bolts** of well-thought-out **Distributed Systems**
 - Think of me as a tech alchemist — **turning ideas into digital gold!**
 
-## 🚀 Skills & Interests
+## 🌸 Skills & Interests
 
 - **Programming Mastery**: Crafting **clean**, efficient, extendable solutions in **Modern C++20, Java 17**, and **Python 3.13**
 - **Core Strengths**: Designing **scalable** architectures with deep expertise in **Data Structures, Algorithms**, and **System Design**
@@ -69,7 +69,7 @@
 [![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white)](https://www.notion.so/)
 [![Miro](https://img.shields.io/badge/Miro-050038?style=plastic&logo=Miro&logoColor=white)](https://miro.com/)
 
-## 🌸 Thank you for stopping by!
+## 🚀 Thank you for stopping by!
 
 Drop me a mail at [techwithramaa@gmail.com](mailto:TechWithRamaa@example.com) — Let's create magic!
 
