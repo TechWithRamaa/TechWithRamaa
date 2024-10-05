@@ -23,28 +23,17 @@
 - **Communication and Collaboration:** Skilled at nurturing creativity and collaboration, facilitating seamless communication and idea exchange to drive innovation and expand knowledge
 
 
-## 🍋‍🟩 Skills & Expertise
+# 🚀 Skills & Interests
 
-- **Programming Languages:**  
-  - Driving computers with **Modern C++20, Java 17, and Python 3.13** (Yes, I keep my codebase **cleaner** than my desk!)
+### 🧑‍💻 Programming Mastery
+Crafting efficient, bug-free solutions in **Modern C++20, Java 17, and Python 3.13**—keeping my code as clean as it is powerful.
 
-- **Core Competencies:**  
-  - **Data Structures & Algorithms** 
-  - **System Design & Design Patterns** ( Designing systems that don’t break under pressure )  
-  - **Software Engineering & Distributed Systems** ( Because who likes to go solo ? )  
-  - **AI & Machine Learning** 
-  - **Prompt Engineering** ( Crafting prompts & elevating user experience with sytems)
+### 💡 Core Strengths
+From **Data Structures & Algorithms** to **System Design & Distributed Systems**, I build robust, scalable systems that thrive under pressure. Toss in some **AI & Machine Learning**, **Prompt Engineering**, and **Design Patterns** for good measure, and you've got the perfect blend of innovation and reliability.
 
-## 🛺 Currently interested in
+### 🔍 Current Focus
+Exploring **Distributed Systems**, **Performance Tuning**, **LLMs & RAG**, **Vector Similarity Search**, and **Cloud DevOps**. Always up for a good chat about tech, scaling challenges, or even a deep dive into movies !
 
-- Diving deep into Distributed Systems
-- Best Practices for Scalable & Reliable Solutions
-- Performance Tuning
-- Traditional ML & Generative AI
-- LLMs & RAG  
-- Vector Similarity Search 
-- DevOps & Cloud Systems
-- Brainstorming over tech, data structures, algorithms, career, and films
 
 ## 🪸 About my Toolbox
 
