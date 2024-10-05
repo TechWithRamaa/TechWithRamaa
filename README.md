@@ -12,28 +12,19 @@
 ## 🏄‍♀️ My Passion
 
 -  Having fun deconstructing complex challenges into simpler ones and turning ideas -> design and design -> scalable solutions
+-  Enjoys building tools and technologies, and explores the nuts & bolts of well-thought-out architectures
 -  Think of me as a tech alchemist — **turning ideas into digital gold !**
-
-## 🍁 Summary
-
-- **Dynamic Software Developer:** Thrives on tackling real-world challenges, enjoys building tools and technologies, and explores the nuts & bolts of well-thought-out architectures
-- **User-Centric Focus:** Committed to delight users by delivering innovations and experiences
-- **Champion of Sustainability:** Practising, applying best principles for delivering high-performant, eco-friendly PRODUCTs
-- **Innovative Mindset:** Solving once-impossible challenges and incorporating into systems with the power of technology and AI
-- **Communication and Collaboration:** Skilled at nurturing creativity and collaboration, facilitating seamless communication and idea exchange to drive innovation and expand knowledge
-
 
 # 🚀 Skills & Interests
 
-### 🧑‍💻 Programming Mastery
+-  ### 🧑‍💻 Programming Mastery
 Crafting efficient, bug-free solutions in **Modern C++20, Java 17, and Python 3.13**—keeping my code as clean as it is powerful.
 
-### 💡 Core Strengths
+- ### 💡 Core Strengths
 From **Data Structures & Algorithms** to **System Design & Distributed Systems**, I build robust, scalable systems that thrive under pressure. Toss in some **AI & Machine Learning**, **Prompt Engineering**, and **Design Patterns** for good measure, and you've got the perfect blend of innovation and reliability.
 
-### 🔍 Current Focus
+- ### 🔍 Current Focus
 Exploring **Distributed Systems**, **Performance Tuning**, **LLMs & RAG**, **Vector Similarity Search**, and **Cloud DevOps**. Always up for a good chat about tech, scaling challenges, or even a deep dive into movies !
-
 
 ## 🪸 About my Toolbox
 
