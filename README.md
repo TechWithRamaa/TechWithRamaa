@@ -21,7 +21,7 @@
 - Crafting efficient, scalable solutions in **Modern C++20, Java 17, and Python 3.13**—keeping my code as clean as it is powerful
 
 ### 💡 Core Strengths
-- From **Data Structures & Algorithms** to **System Design & Distributed Systems**, I build robust, scalable systems that thrive under pressure.
+- From **Data Structures & Algorithms** to **System Design & Distributed Systems**, I build robust, scalable systems that thrive under pressure
 - Toss in some **AI & Machine Learning**, **Prompt Engineering**, and **Design Patterns** for good measure, to get the perfect blend of innovation and reliability
 
 ### 🔍 Current Focus
