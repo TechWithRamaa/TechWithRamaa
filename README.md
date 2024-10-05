@@ -26,19 +26,19 @@
 ### 🔍 Current Focus
 - Exploring **Distributed Systems**, **Performance Tuning**, **Generative AI**, **Database Internals**, and **Parallelism & Concurrency**
 
-## 🪸 About my Toolbox
+## ☕ About my Toolbox
 
 Proficient in a diverse set of tools and technologies blessed by the Cloud Native Computing Foundation
 
 - #### Front-end Technologies
-[![HTML 5](https://img.shields.io/badge/HTML-E34F26.svg?style=plastic&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-[![CSS](https://img.shields.io/badge/CSS-1572B6.svg?style=plastic&logo=css3&logoColor=white)](https://www.css3.info/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=plastic&logo=javascript&logoColor=black)](https://www.javascript.com/)
-[![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=plastic&logo=angularjs&logoColor=white)](https://angularjs.org/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=plastic&logo=gatsby&logoColor=white)](https://gatsbyjs.com/)
-[![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=plastic&logo=ionic&logoColor=white)](https://ionicframework.com/)
-[![Cordova](https://img.shields.io/badge/Cordova-35434F?style=plastic&logo=apache-cordova&logoColor=E8E8E8)](https://cordova.apache.org/)
+##### [![HTML 5](https://img.shields.io/badge/HTML-E34F26.svg?style=plastic&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+##### [![CSS](https://img.shields.io/badge/CSS-1572B6.svg?style=plastic&logo=css3&logoColor=white)](https://www.css3.info/)
+##### [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=plastic&logo=javascript&logoColor=black)](https://www.javascript.com/)
+##### [![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=plastic&logo=angularjs&logoColor=white)](https://angularjs.org/)
+##### [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+##### [![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=plastic&logo=gatsby&logoColor=white)](https://gatsbyjs.com/)
+##### [![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=plastic&logo=ionic&logoColor=white)](https://ionicframework.com/)
+##### [![Cordova](https://img.shields.io/badge/Cordova-35434F?style=plastic&logo=apache-cordova&logoColor=E8E8E8)](https://cordova.apache.org/)
 
 - #### Back-end Technologies
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
