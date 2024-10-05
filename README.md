@@ -19,9 +19,9 @@
 
 - **Programming Mastery**: Crafting efficient, scalable solutions in **Modern C++20, Java 17, and Python 3.13**—keeping my code as clean as it is powerful
 - **Core Strengths**: From **Data Structures & Algorithms** to **System Design & Distributed Systems**, I build robust, scalable systems that thrive under pressure
-- **Secret Sauce**: Toss in some **AI & Machine Learning**, **Prompt Engineering**, and **Design Patterns** to get the perfect blend of innovation and reliability
+- **Secret Sauce**: Toss in some **AI & Machine Learning**, **Prompt Engineering**, and **Design Patterns** to get the perfect outcome of innovation
 
-## ☕ About my Toolbox
+## ☕ About my Toolbox & the laboratory
 
 &nbsp;&nbsp;&nbsp;&nbsp; Proficient in a diverse set of tools and technologies blessed by the **Cloud Native Computing Foundation**
 
