@@ -17,7 +17,7 @@
 
 ## 🚀 Skills & Interests
 
-&nbsp;&nbsp; ### 🧑‍💻 Programming Mastery
+### 🧑‍💻 Programming Mastery
 &nbsp;&nbsp; - Crafting efficient, scalable solutions in **Modern C++20, Java 17, and Python 3.13**—keeping my code as clean as it is powerful
 
 ### 💡 Core Strengths
