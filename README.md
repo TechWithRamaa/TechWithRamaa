@@ -18,7 +18,7 @@
 ## 🚀 Skills & Interests
 
 ### 🧑‍💻 Programming Mastery
-- Crafting efficient, bug-free solutions in **Modern C++20, Java 17, and Python 3.13**—keeping my code as clean as it is powerful.
+- Crafting efficient, scalable solutions in **Modern C++20, Java 17, and Python 3.13**—keeping my code as clean as it is powerful.
 
 ### 💡 Core Strengths
 - From **Data Structures & Algorithms** to **System Design & Distributed Systems**, I build robust, scalable systems that thrive under pressure. Toss in some **AI & Machine Learning**, **Prompt Engineering**, and **Design Patterns** for good measure, and you've got the perfect blend of innovation and reliability.
