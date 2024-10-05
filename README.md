@@ -18,7 +18,7 @@
 ## 🚀 Skills & Interests
 
 - **Programming Mastery**: Crafting **clean**, efficient, extendable solutions in **Modern C++20, Java 17**, and **Python 3.13**
-- **Core Strengths**: Crafting **scalable** architectures with deep expertise in **Data Structures, Algorithms**, and **System Design**
+- **Core Strengths**: Designing **scalable** architectures with deep expertise in **Data Structures, Algorithms**, and **System Design**
 - **Secret Sauce**: Blending **Design Thinking, AI & Machine Learning**, and **cutting-edge technology** to revolution the globe
 
 ## ☕ About my toolbox & the laboratory
