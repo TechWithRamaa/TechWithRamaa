@@ -21,7 +21,7 @@
 - **Core Strengths**: Designing **scalable** architectures with deep expertise in **Data Structures, Algorithms**, and **System Design**
 - **Secret Sauce**: Blending **Design Thinking, AI & Machine Learning**, and **cutting-edge technology** to revolutionize the globe
 
-## ☕ About my toolbox & the laboratory
+## 💼 About my toolbox
 
 &nbsp;&nbsp;&nbsp;&nbsp; Proficient in a diverse set of tools and technologies blessed by the **Cloud Native Computing Foundation**
 
