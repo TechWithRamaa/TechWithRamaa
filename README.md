@@ -25,7 +25,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; Proficient in a diverse set of tools and technologies blessed by the **Cloud Native Computing Foundation**
 
-**Microservices Architecture**, OpenAPI, **Distributed Systems**, CQRS, Load Balancing, Horizontal Scaling, Fault Tolerance, Distributed Tracing, CI/CD, MLOps, Python, TensorFlow, PyTorch, Keras, Scikit-learn, Hugging Face, Docker, Kubernetes, AWS, GCP, Flask, RESTful APIs, gRPC, PostgreSQL, MongoDB, Redis, Apache Kafka, Apache Spark, Databricks, Git, Jenkins, Kubernetes, Prometheus, Grafana, Object Storage, Redis, Elasticsearch, Jupyter Notebooks, Pandas, NumPy, **C++, Java and Python**, Spring Boot, HazelCast/Coherence, **Key-Value Data Store**, **In-Memory Processing Grid**, Helidon, Quarkus, ExpressJS
+&nbsp;&nbsp;&nbsp;&nbsp; **Microservices Architecture**, OpenAPI, **Distributed Systems**, CQRS, Load Balancing, Horizontal Scaling, Fault Tolerance, Distributed Tracing, CI/CD, MLOps, Python, TensorFlow, PyTorch, Keras, Scikit-learn, Hugging Face, Docker, Kubernetes, AWS, GCP, Flask, RESTful APIs, gRPC, PostgreSQL, MongoDB, Redis, Apache Kafka, Apache Spark, Databricks, Git, Jenkins, Kubernetes, Prometheus, Grafana, Object Storage, Redis, Elasticsearch, Jupyter Notebooks, Pandas, NumPy, **C++, Java and Python**, Spring Boot, HazelCast/Coherence, **Key-Value Data Store**, **In-Memory Processing Grid**, Helidon, Quarkus, ExpressJS, **Advanced Data Structures**, **Low Level System Design**, **High Level System Design**
 
 ## 🚀 Thank you for stopping by!
 
