@@ -17,7 +17,7 @@
 - Enjoys **building tools and technologies**, and **explores** the **nuts & bolts** of well-thought-out **Distributed Systems**
 - **Quick to learn, unlearn** — to reivent my problem solving skills! Think of me as a tech alchemist — **turning ideas into digital gold!**
 
-## 🌸 Skills & Interests
+## 🧀 Skills & Interests
 
 - **Programming Mastery**: Crafting **clean**, efficient, extendable solutions in **Modern C++20, Java 17**, and **Python 3.13**
 - **Core Strengths**: Designing **scalable** architectures with deep expertise in **Data Structures, Algorithms**, and **System Design**
