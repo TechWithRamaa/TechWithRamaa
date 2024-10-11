@@ -2,8 +2,7 @@
 
 - I'm Ramadhevi RK (**Ramaa**), Shaping the future through the fusion of **Software Engineering**, and **Artificial Intelligence**
 - Driving innovations, and **supercharging** existing systems with AI to create products that **meet tomorrow's challenges**
-- Quick to **learn, unlearn**, and **reinvent** — constantly evolving with cutting-edge technologies and **crafting solutions that shape the future**
-- On a mission to become the software engineer **the world is waiting to see**
+- What I appreciate about the tech world is that it is fundamentally a realm of innovation and problem-solving, prioritizing groundbreaking ideas over just building functional software
 
 ## 🥑 About Me
 
@@ -30,6 +29,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp; **Microservices Architecture**, OpenAPI, **Distributed Systems**, CQRS, Load Balancing, Horizontal Scaling, Fault Tolerance, Distributed Tracing, CI/CD, MLOps, Python, **TensorFlow, PyTorch, Keras**, Scikit-learn, **LLM, RAG**, Docker, Kubernetes, AWS, GCP, **Object Storage, Redis, Elasticsearch**, RESTful APIs, Streaming, gRPC, **PostgreSQL, MongoDB, Redis**, Spring Boot, Helidon, Quarkus, ExpressJS, Flask, **Apache Kafka, Apache Spark**, Databricks, Git, Jenkins, Kubernetes, Prometheus, Grafana, Jupyter Notebooks, Pandas, NumPy, **C++, Java and Python**,  HazelCast/Coherence, **Amazon DynamoDB, NoSQL, Cassandra, Vector Databases**, Key-Value Data Store, **In-Memory Processing Grid**, Performance Monitoring & Tuning, Memory Turning, **Advanced Data Structures**, **Low Level System Design**, **High Level System Design**
 
 ## 🚀 Thank you for stopping by!
-- Where innovation sparks, **magic happens**. Let’s turn bold visions into remarkable products. 
+- 
 - Let’s collaborate and **bring it to life**! Drop me a mail at [techwithramaa@gmail.com](mailto:TechWithRamaa@example.com)
 
