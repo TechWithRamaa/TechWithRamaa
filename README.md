@@ -25,7 +25,7 @@
 
 ## 🛺 Thank you for stopping by!
 - The best of software engineering happens when the timeless wisdom meets modern innovation
-- Let’s collaborate and **bring that idea to life**! Drop me a mail at [techwithramaa@gmail.com](mailto:TechWithRamaa@example.com)
+- Let’s collaborate and **bring that idea to life**! Mail me at [techwithramaa@gmail.com](mailto:TechWithRamaa@example.com)
 
 ## 💼 About my toolbox
 
