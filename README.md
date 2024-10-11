@@ -29,7 +29,7 @@
 
 ## 💼 About my toolbox
 
-&nbsp;&nbsp;&nbsp;&nbsp; Proficient in a diverse set of tools and technologies blessed by the open source community **Cloud Native Computing Foundation**
+&nbsp;&nbsp;&nbsp;&nbsp; Proficient in a diverse set of tools and technologies blessed by open-source community backed **Cloud Native Computing Foundation** 
 
 &nbsp;&nbsp;&nbsp;&nbsp; **Microservices Architecture**, OpenAPI, **Distributed Systems**, CQRS, Load Balancing, Horizontal Scaling, Transaction Guarantees,  
 Fault Tolerance, CI/CD, MLOps, Python, **TensorFlow, PyTorch, Keras**, Scikit-learn, **LLM, RAG**, Docker, Kubernetes, AWS, GCP,  
