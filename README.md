@@ -23,7 +23,7 @@
 - **Core Strengths**: Designing **scalable** architectures with deep expertise in **Data Structures, Algorithms**, and **System Design**
 - **Secret Sauce**: Blending **Design & Performance Thinking, AI & Machine Learning**, and **cutting-edge technology** to revolutionize the globe
 
-## 🚀 Thank you for stopping by!
+## 🛺 Thank you for stopping by!
 - The best of software engineering happens when the timeless wisdom meets modern innovation
 - Let’s collaborate and **bring that idea to life**! Drop me a mail at [techwithramaa@gmail.com](mailto:TechWithRamaa@example.com)
 
