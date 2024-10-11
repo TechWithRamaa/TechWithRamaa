@@ -2,7 +2,7 @@
 
 - I'm Ramadhevi RK (**Ramaa**), Shaping the future through the fusion of **Software Engineering**, and **Artificial Intelligence**
 - Driving innovations, and **supercharging** existing systems with AI to create products that **meet tomorrow's challenges**
-- What I appreciate about the tech world is that it is fundamentally a realm of innovation and problem-solving, prioritizing groundbreaking ideas over just building functional software
+- What I appreciate about the tech world is that it is fundamentally a **realm of innovation and problem-solving**, prioritizing groundbreaking ideas over just building functional software
 
 ## 🥑 About Me
 
