@@ -22,13 +22,13 @@
 - **Core Strengths**: Designing **scalable** architectures with deep expertise in **Data Structures, Algorithms**, and **System Design**
 - **Secret Sauce**: Blending **Design & Performance Thinking, AI & Machine Learning**, and **cutting-edge technology** to revolutionize the globe
 
+## 🚀 Thank you for stopping by!
+- The best of software engineering happens when the timeless wisdom meets modern innovation
+- Let’s collaborate and **bring that idea to life**! Drop me a mail at [techwithramaa@gmail.com](mailto:TechWithRamaa@example.com)
+
 ## 💼 About my toolbox
 
 &nbsp;&nbsp;&nbsp;&nbsp; Proficient in a diverse set of tools and technologies blessed by the **Cloud Native Computing Foundation**
 
 &nbsp;&nbsp;&nbsp;&nbsp; **Microservices Architecture**, OpenAPI, **Distributed Systems**, CQRS, Load Balancing, Horizontal Scaling, Fault Tolerance, Distributed Tracing, CI/CD, MLOps, Python, **TensorFlow, PyTorch, Keras**, Scikit-learn, **LLM, RAG**, Docker, Kubernetes, AWS, GCP, **Object Storage, Redis, Elasticsearch**, RESTful APIs, Streaming, gRPC, **PostgreSQL, MongoDB, Redis**, Spring Boot, Helidon, Quarkus, ExpressJS, Flask, **Apache Kafka, Apache Spark**, Databricks, Git, Jenkins, Kubernetes, Prometheus, Grafana, Jupyter Notebooks, Pandas, NumPy, **C++, Java and Python**,  HazelCast/Coherence, **Amazon DynamoDB, NoSQL, Cassandra, Vector Databases**, Key-Value Data Store, **In-Memory Processing Grid**, Performance Monitoring & Tuning, Memory Turning, **Advanced Data Structures**, **Low Level System Design**, **High Level System Design**
-
-## 🚀 Thank you for stopping by!
-- 
-- Let’s collaborate and **bring it to life**! Drop me a mail at [techwithramaa@gmail.com](mailto:TechWithRamaa@example.com)
 
