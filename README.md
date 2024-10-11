@@ -15,7 +15,7 @@
 
 - Having fun **deconstructing** complex challenges into simpler ones & **taking ideas to design** & **design to scalable solutions**
 - Enjoys **building tools and technologies**, and **explores** the **nuts & bolts** of well-thought-out **Distributed Systems**
-- **Quick to learn, unlearn** — to reivent my problem solving skills! Think of me as a tech alchemist — **turning ideas into digital gold!**
+- **Quick to learn, unlearn** to reivent my problem solving skills! Think of me as a tech alchemist — **turning ideas into digital gold!**
 
 ## 🧀 Skills & Interests
 
