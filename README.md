@@ -2,7 +2,7 @@
 
 - I'm Ramadhevi RK (**Ramaa**), Shaping the future through the fusion of **Software Engineering**, and **Artificial Intelligence**
 - Driving innovations, and **supercharging** existing systems with AI to create products that **meet tomorrow's challenges**
-- Quick to **learn, unlearn**, and **reinvent** — constantly evolving with cutting-edge technologies and crafting solutions that shape the future
+- Quick to **learn, unlearn**, and **reinvent** — constantly evolving with cutting-edge technologies and **crafting solutions that shape the future**
 - On a mission to become the software engineer **the world is waiting to see**
 
 ## 🥑 About Me
