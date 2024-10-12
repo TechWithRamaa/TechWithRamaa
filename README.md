@@ -35,7 +35,7 @@
 Transaction Guarantees, Fault Tolerance, CI/CD, MLOps, Python, **TensorFlow, PyTorch, Keras**, Scikit-learn, **LLM, RAG**, Docker, Kubernetes,  
  **Object Storage, Redis, Elasticsearch**, RESTful APIs, Streaming, gRPC, **PostgreSQL, MongoDB, Redis**, Spring Boot, Helidon, Quarkus,  
  ExpressJS, Flask, **Apache Kafka, Apache Spark**, Databricks, Git, Jenkins, Kubernetes, Prometheus, Grafana,  **C++, Java and Python**,   
-**Amazon DynamoDB, NoSQL**, Cassandra, **Vector Databases**, Jupyter Notebooks, Pandas, NumPy, HazelCast/Coherence,&nbsp;&nbsp;&nbsp;&nbsp;
+**Amazon DynamoDB, NoSQL**, Cassandra, **Vector Databases**, Jupyter Notebooks, Pandas, NumPy, HazelCast/Coherence,&nbsp;&nbsp;  
 **Transfer Learning**, Key-Value Data Store, **In-Memory Processing Grid**, Performance & Memory Tuning, **Lean Extendable Software Systems**,
 Socket Programming, Low latent High thoughput systems, **Advanced Data Structures**, **Machine Coding**, **System Design**, Reverse Engineering, 
-AsyncronousIO, EventLoop, **Amazon Web Services, Google Cloud Platform**
+AsyncronousIO, EventLoop, **Amazon Web Services, Google Cloud Platform**, Miro, Excalidraw
