@@ -36,4 +36,4 @@ Fault Tolerance, CI/CD, MLOps, Python, **TensorFlow, PyTorch, Keras**, Scikit-le
  **Object Storage, Redis, Elasticsearch**, RESTful APIs, Streaming, gRPC, **PostgreSQL, MongoDB, Redis**, Spring Boot, Helidon, Quarkus,  
  ExpressJS, Flask, **Apache Kafka, Apache Spark**, Databricks, Git, Jenkins, Kubernetes, Prometheus, Grafana,  **C++, Java and Python**,   
 **Amazon DynamoDB, NoSQL**, Cassandra, **Vector Databases**, Jupyter Notebooks, Pandas, NumPy, HazelCast/Coherence, **Transfer Learning**,&nbsp;&nbsp;&nbsp;&nbsp;  Key-Value Data Store, **In-Memory Processing Grid**, Performance & Memory Tuning, **Lean Extendable Software Systems**,&nbsp;&nbsp;&nbsp;&nbsp;
-Socket Programming, Low latent High thoughput systems, **Advanced Data Structures**, **Machine Coding**, **System Design**, Reverse Engineering, Architecting, **A**mazon **W**eb **S**ervices, **G**oogle **C**loud **P**latform
+Socket Programming, Low latent High thoughput systems, **Advanced Data Structures**, **Machine Coding**, **System Design**, Reverse Engineering, AsyncronousIO, EventLoop, **Amazon **W**eb **S**ervices, **G**oogle **C**loud **P**latform
