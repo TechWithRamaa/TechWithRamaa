@@ -38,4 +38,4 @@ Transaction Guarantees, Fault Tolerance, CI/CD, MLOps, Python, **TensorFlow, PyT
 **Amazon DynamoDB, NoSQL**, Cassandra, **Vector Databases**, Jupyter Notebooks, Pandas, NumPy, HazelCast/Coherence,&nbsp;&nbsp;  
 **Transfer Learning**, Key-Value Data Store, **In-Memory Processing Grid**, Performance & Memory Tuning, **Lean Extendable Software Systems**,
 Socket Programming, Low latent High thoughput systems, **Advanced Data Structures**, **Machine Coding**, **System Design**, Reverse Engineering, 
-AsyncronousIO, EventLoop, **Amazon Web Services, Google Cloud Platform**, Miro, Excalidraw, **Big 0 Analysis**, **Scalable Alogrithms**
+AsyncronousIO, EventLoop, **Amazon Web Services, Google Cloud Platform**, Miro, Excalidraw, **Big O Analysis**, **Scalable Alogrithms**
