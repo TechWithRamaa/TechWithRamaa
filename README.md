@@ -26,7 +26,7 @@
 ## 🛺 Thank you for stopping by!
 - The best of software engineering happens when the timeless wisdom meets modern innovation
 - Let’s collaborate and **bring that idea to life**! Ping me at [techwithramaa@gmail.com](mailto:TechWithRamaa@example.com)
-- Reach me at my LinkedIn handle [Ramadhevi RK](https://linkedin.com/in/codewithramaa)
+- Connect with me in **LinkedIn** at **[Ramadhevi RK](https://linkedin.com/in/codewithramaa)**
 
 ## 💼 About my toolbox
 
